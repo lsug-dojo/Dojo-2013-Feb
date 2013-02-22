@@ -17,3 +17,6 @@ https://github.com/dph01/lsug_dojo_lift3
 
 ### Exercises in Functional Programming in Scala - Chapter 6
 https://gist.github.com/ksmutny/5008306
+
+### Union find
+https://gist.github.com/docent666/5016135
